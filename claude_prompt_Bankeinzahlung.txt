@@ -1,0 +1,16 @@
+Erstelle ein GUI-Prototyp für Bankzahlungen mit folgenden Anforderungen:
+
+Empfängerdaten:
+- Name, Adresse, Ort, IBAN
+- Länder: [Schweiz, Deutschland]
+- PLZ-Validierung: CH=4 Ziffern, DE=5 Ziffern
+
+Zahlungsdetails:
+- Betrag in [CHF, EUR]
+- Referenz und Verwendungszweck
+
+Technische Anforderungen:
+- React-Komponente
+- Moderne UI mit Tailwind
+- Vollständige Validierung
+- Responsive Design
